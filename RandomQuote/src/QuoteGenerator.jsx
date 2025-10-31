@@ -19,7 +19,7 @@ function QuoteGenerator(){
         <div className="form1">
             <h1>Random quote Generator</h1>
             <div className="form2">
-                "{quote}""
+                "{quote}"
             </div>
             <button onClick={generateQuote} className="btn">
                 New quote
