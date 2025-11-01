@@ -1,11 +1,11 @@
-import Digitalclock from './Digitalclock';
+import ColorPicker from "./ColorPicker";
 
 function App() {
-
+  
 
   return (
     <>
-      <TheatreDashboard/>
+      <ColorPicker/>
     </>
   )
 }

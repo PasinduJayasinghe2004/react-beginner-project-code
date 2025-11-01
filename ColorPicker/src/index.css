@@ -1,0 +1,42 @@
+.pick{
+  text-align:center;
+  margin-top:100px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.color{
+  width:120px;
+  height:60px;
+  border:none;
+  cursor:pointer;
+}
+.color1{
+  margin:20px auto;
+  width:200px;
+  height:200px;
+  background-color: color;
+  border-radius:10px;
+  box-shadow:10px;
+  transition:background-color 0.3s ease
+}
+.btn{
+  padding:10px 10px;
+  border-radius:5px;
+  border:none;
+  background-color: #333;
+  color:white;
+  cursor:pointer;
+  margin-top:10px;
+}
+.btn1{
+  padding:10px 20px;
+  border-radius:5px;
+  border:none;
+  background-color: #6691d7;
+  color:white;
+  cursor:pointer;
+  margin-top:5px;
+}
+.p1{
+  color:green;
+}
